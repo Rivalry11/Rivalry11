@@ -1,16 +1,24 @@
-## Hi there 👋
+## Hi there 👋 I'm Camila Rubio
 
-<!--
-**Rivalry11/Rivalry11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Science & Jr. ML Engineer with experience in data analysis, machine learning, and metric-driven optimization. I'm passionate about transforming data into clear insights and building solutions that generate real impact.
 
-Here are some ideas to get you started:
+### 🚀 About Me
+- 🎓 Data Science training (4Geeks)
+- 📊 Experience in operational analytics, advanced reporting, and KPI optimization  
+- 🤖 Predictive modeling with Python, scikit-learn, and deployment with Streamlit  
+- 🧠 Featured Project: Parkinson’s Telemonitoring – ML Pipeline & Random Forest  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack
+- **Languages:** Python, SQL  
+- **Data:** pandas, numpy, seaborn, matplotlib  
+- **ML:** scikit-learn, pipelines, regression, feature engineering  
+- **Tools:** Jupyter Notebook, Google Colab, GitHub, Streamlit  
+- **Soft Skills:** critical thinking, data communication, continuous improvement  
+
+### 📂 Projects
+- **Parkinson’s Telemonitoring:** Predictive modeling for healthcare and Streamlit web application  
+- (You can add more here)
+
+### 🌐 Connect with Me
+- LinkedIn: www.linkedin.com/in/camila-rubio-cuellar
+- GitHub: https://github.com/Rivalry11
