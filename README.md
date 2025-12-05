@@ -17,7 +17,6 @@ Data Science & Jr. ML Engineer with experience in data analysis, machine learnin
 
 ### 📂 Projects
 - **Parkinson’s Telemonitoring:** Predictive modeling for healthcare and Streamlit web application  
-- (You can add more here)
 
 ### 🌐 Connect with Me
 - LinkedIn: www.linkedin.com/in/camila-rubio-cuellar
