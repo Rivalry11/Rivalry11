@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Camila Rubio
 
-Data Science & Jr. ML Engineer with experience in data analysis, machine learning, and metric-driven optimization. I'm passionate about transforming data into clear insights and building solutions that generate real impact.
+Data Science & ML Engineer with experience in data analysis, machine learning, and metric-driven optimization. I'm passionate about transforming data into clear insights and building solutions that generate real impact.
 
 ### 🚀 About Me
 - 🎓 Data Science training (4Geeks)
