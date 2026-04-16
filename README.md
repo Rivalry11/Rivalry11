@@ -33,7 +33,6 @@ Currently transitioning from workforce management analytics into **fintech and f
 | Project | Description | Stack |
 |---|---|---|
 | **[FinCrime Transaction Monitor](https://github.com/Rivalry11/fincrime-transaction-monitor)** | Fraud detection pipeline with XGBoost + Streamlit dashboard | Python, XGBoost, Streamlit |
-| **Parkinson's Telemonitoring** | Predictive modeling for healthcare with Random Forest | Python, scikit-learn, Streamlit |
 
 ---
 
